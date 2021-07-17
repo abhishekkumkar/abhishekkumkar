@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumkar</h1>
-<h3 align="center">It’s Abhishek, Professional Web Developer, Ethical Hacker and Data analyst. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.</h3>
+<h3 align="center">It’s Abhishek, Professional Web Developer, Ethical Hacker and Data analyst. I can design websites for your businesses, I can train machine learning models and also I can test security of your applications. No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumkar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumkar" /> </p>
 
